@@ -5,4 +5,4 @@ description:
 permalink: /blog
 ---
 
-Life Doesn't Have to Be Perfect to Be Wonderful.
+life doesn't have to be perfect to be wonderful.
