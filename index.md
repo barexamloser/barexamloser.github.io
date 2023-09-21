@@ -9,4 +9,4 @@ title: Home
 
 앞으로도 어쩔 수 없는 일들이 계속해서 많이 펼쳐지겠지만, 그럼에도 꿈을 잃지 않고 노력하려고 합니다.
 
-![Home](https://github.com/barexamloser/barexamloser.github.io/blob/main/assets/images/rm331-mind-banner-04.jpg "Home")
+![Home](https://github.com/barexamloser/barexamloser.github.io/blob/161e79dff11b5b8da082bee7e643ae09bd130709/assets/images/rm331-mind-banner-04.jpg "Home")
