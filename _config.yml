@@ -46,8 +46,8 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
-future: false
+timezone: Asia/Seoul
+future: true
 
 exclude:
 - README.md
