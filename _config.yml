@@ -13,9 +13,14 @@ url: "https://barexamloser.github.io" # the base hostname & protocol for your si
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-paginate
 
 whitelist:
   - jekyll-redirect-from
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/blog/page:num/"
 
 markdown: kramdown
 
