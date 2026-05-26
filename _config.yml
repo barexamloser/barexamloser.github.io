@@ -19,7 +19,7 @@ whitelist:
   - jekyll-redirect-from
   - jekyll-paginate
 
-paginate: 10
+paginate: 15
 paginate_path: "/blog/page:num/"
 
 markdown: kramdown
